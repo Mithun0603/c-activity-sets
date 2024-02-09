@@ -1,5 +1,5 @@
 #include <stdio.h>
-int input()
+int input();
 int add(int a, int b,int sum);
 void output(int a,int b,int sum);
 int main()

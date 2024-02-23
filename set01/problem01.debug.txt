@@ -1,0 +1,17 @@
+git add .
+PS C:\Users\MITHUN R\Desktop\.vscode\c-activity-sets> git commit -m "test"
+[main 87d595a] test
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+PS C:\Users\MITHUN R\Desktop\.vscode\c-activity-sets> git push .     
+Everything up-to-date
+PS C:\Users\MITHUN R\Desktop\.vscode\c-activity-sets> git push       
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 852 bytes | 426.00 KiB/s, done.
+Total 7 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 2 local objects.
+To https://github.com/Mithun0603/c-activity-sets
+   ac5c49c..87d595a  main -> main
+PS C:\Users\MITHUN R\Desktop\.vscode\c-activity-sets> 
